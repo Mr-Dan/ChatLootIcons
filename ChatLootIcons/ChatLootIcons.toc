@@ -1,0 +1,13 @@
+## Interface: 30300
+## X-Curse-Packaged-Version: 1.0.3
+## X-Curse-Project-Name: Chat Loot Icons
+## X-Curse-Project-ID: chat-loot-icons
+## X-Curse-Repository-ID: wow/chat-loot-icons/mainline
+## Title: Chat Loot Icons
+## Notes: Tiny icons for your lootz!
+## Author: Stanzilla
+## Version: 1.0.3
+## X-Email: staneck AT gmail DOT com
+## X-Category: Chat
+
+main.lua
